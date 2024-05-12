@@ -1,0 +1,7 @@
+../Core/Src/my_RGB.c:19:6:RGB_SetColor32	24	static
+../Core/Src/my_RGB.c:29:6:RGB_SetColor888	16	static
+../Core/Src/my_RGB.c:36:6:Reset_Load	16	static
+../Core/Src/my_RGB.c:54:6:RGB_SendLEDData	8	static
+../Core/Src/my_RGB.c:61:6:RGB_SetAllColor32	24	static
+../Core/Src/my_RGB.c:68:6:RGB_SetAllColor888	16	static
+../Core/Src/my_RGB.c:73:6:RGB_PushColor	24	static

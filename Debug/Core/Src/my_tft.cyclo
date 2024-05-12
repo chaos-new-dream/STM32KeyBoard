@@ -1,0 +1,9 @@
+my_tft.c:71:6:__AddData	1
+my_tft.c:96:6:NextData	2
+my_tft.c:107:6:TFT_SyncInit	1
+my_tft.c:218:6:MyTFT_SyncCore	16
+my_tft.c:319:6:MyTFT_SyncWriteData	2
+my_tft.c:358:6:MyTFT_SyncWriteASCII	4
+my_tft.c:374:6:MyTFT_SyncPrintChar	3
+my_tft.c:627:6:MyTFT_OpenScreen	1
+my_tft.c:631:6:MyTFT_CloseScreen	1

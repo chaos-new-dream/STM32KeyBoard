@@ -1,0 +1,9 @@
+../Core/Src/my_tft.c:71:6:__AddData	24	static
+../Core/Src/my_tft.c:96:6:NextData	4	static
+../Core/Src/my_tft.c:107:6:TFT_SyncInit	24	static
+../Core/Src/my_tft.c:218:6:MyTFT_SyncCore	8	static
+../Core/Src/my_tft.c:319:6:MyTFT_SyncWriteData	40	static
+../Core/Src/my_tft.c:358:6:MyTFT_SyncWriteASCII	40	static
+../Core/Src/my_tft.c:374:6:MyTFT_SyncPrintChar	32	static
+../Core/Src/my_tft.c:627:6:MyTFT_OpenScreen	8	static
+../Core/Src/my_tft.c:631:6:MyTFT_CloseScreen	8	static

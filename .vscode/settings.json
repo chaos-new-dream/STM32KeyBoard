@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "usbd_ioreq.h": "c",
+        "usbd_hid.h": "c"
+    }
+}
